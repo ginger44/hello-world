@@ -102,7 +102,7 @@ if (count($_GET) == 0) {
 				}
 				?>
             <?php 
-				if($usr == 'eosafile' OR $usr == "oadeoye" OR $usr == "MOlatunji"){
+				if($usr == 'eosafile' OR $usr == "oadeoye" OR $usr == "toyenuga"){
 			?>
 					<li><a class="report" href="report.php" target="embedItems" title="Manage Requests">Generate Report</a></li> 
 			<?php
